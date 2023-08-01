@@ -41,11 +41,11 @@ Front end:
 *	HTML: used for creating and saving the web document.
 *	CSS: used for creating attractive layout for the web document.
 *	JavaScript: used for making the web application interactive and for client side input validation.
-*	Bootstrap: used for creating responsive (mobile friendly) application.
+*	Bootstrap: used for creating responsive (mobile friendly) application. 
 Back end:
 *	PHP: used to process and validate the request sent from the web document before allowing access to the database.
-*	MySQL: used for accessing querying, updating, and managing data in databases.
-Software Requirement
+*	MySQL: used for accessing querying, updating, and managing data in databases. 
+Software Requirement 
 Any of the following:
 *	WAMP Server
 *	XAMPP Server
