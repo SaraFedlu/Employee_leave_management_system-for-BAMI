@@ -1,53 +1,51 @@
 # Employee_leave_management_system-for-BAMI
-My internship project 
 The general objective of the project is to develop a web based application which management of leave application and approval is done online.
 
 Development tools used
-•	PHP, CSS, HTML and JavaScript with MySQL database.
-•	XAMPP Control Panel as webserver for testing the source code.
-•	Visual Studio Code editor for writing the source code.
-•	Matrix Admin template for front end web design.
-•	PHP Mailer library for sending emails.
+*	PHP, CSS, HTML and JavaScript with MySQL database.
+*	XAMPP Control Panel as webserver for testing the source code.*	Visual Studio Code editor for writing the source code.
+*	Matrix Admin template for front end web design.
+*	PHP Mailer library for sending emails.
 
 ![image](https://github.com/SaraFedlu/Employee_leave_management_system-for-BAMI/assets/105264543/671a9364-8cd0-4232-9d90-acc2934bc237)
 
 # Functionality
 There are three layers of the leave management system:
 1.	Super Administrator ( HR ): 
-•	Manage users’ profile.
-•	Manage department.
-•	Manage department supervisors.
-•	Manage all employees.
-•	Manage leave approved or applied by department supervisor. 
-•	Manage accounts.
-•	Has access to every data in the database.
+*	Manage users’ profile.
+*	Manage department.
+*	Manage department supervisors.
+*	Manage all employees.
+*	Manage leave approved or applied by department supervisor. 
+*	Manage accounts.
+*	Has access to every data in the database.
 2.	Administrator (Department Supervisor):
-•	Manage employees of their respective department.
-•	View Leave status of employees under them.
-•	Pass leave application of employees of their respective department to the super administrator.
-•	Manage Positions of their respective Department.
-•	Change Positions of Employees of their respective Department.
-•	Retrieve data of their own department.
-•	Apply and keep track of their leave application status.
+*	Manage employees of their respective department.
+*	View Leave status of employees under them.
+*	Pass leave application of employees of their respective department to the super administrator.
+*	Manage Positions of their respective Department.
+*	Change Positions of Employees of their respective Department.
+*	Retrieve data of their own department.
+*	Apply and keep track of their leave application status.
 3.	Normal User (Employee):
-•	Manage their profile.
-•	Change password of their account.
-•	Apply leave and track the process.
-•	Retrieve their leave history.
+*	Manage their profile.
+*	Change password of their account.
+*	Apply leave and track the process.
+*	Retrieve their leave history.
 
 Brief overview of the technology used in the web app
 Front end:
-•	HTML: used for creating and saving the web document.
-•	CSS: used for creating attractive layout for the web document.
-•	JavaScript: used for making the web application interactive and for client side input validation.
-•	Bootstrap: used for creating responsive (mobile friendly) application.
+*	HTML: used for creating and saving the web document.
+*	CSS: used for creating attractive layout for the web document.
+*	JavaScript: used for making the web application interactive and for client side input validation.
+*	Bootstrap: used for creating responsive (mobile friendly) application.
 Back end:
-•	PHP: used to process and validate the request sent from the web document before allowing access to the database.
-•	MySQL: used for accessing querying, updating, and managing data in databases.
+*	PHP: used to process and validate the request sent from the web document before allowing access to the database.
+*	MySQL: used for accessing querying, updating, and managing data in databases.
 Software Requirement
 Any of the following:
-•	WAMP Server
-•	XAMPP Server
+*	WAMP Server
+*	XAMPP Server
 
 Flow chart
 ![image](https://github.com/SaraFedlu/Employee_leave_management_system-for-BAMI/assets/105264543/8ee3407a-0b0f-4a6f-a059-aa56deef1294)
