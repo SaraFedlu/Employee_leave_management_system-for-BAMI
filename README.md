@@ -1,13 +1,15 @@
 # Employee_leave_management_system-for-BAMI
 The general objective of the project is to develop a web based application which management of leave application and approval is done online.
 
-Development tools used
+# Development tools used
 *	PHP, CSS, HTML and JavaScript with MySQL database.
-*	XAMPP Control Panel as webserver for testing the source code.*	Visual Studio Code editor for writing the source code.
+*	XAMPP Control Panel as webserver for testing the source code.
+*	Visual Studio Code editor for writing the source code.
 *	Matrix Admin template for front end web design.
 *	PHP Mailer library for sending emails.
 
 ![image](https://github.com/SaraFedlu/Employee_leave_management_system-for-BAMI/assets/105264543/671a9364-8cd0-4232-9d90-acc2934bc237)
+
 
 # Functionality
 There are three layers of the leave management system:
@@ -33,7 +35,8 @@ There are three layers of the leave management system:
 *	Apply leave and track the process.
 *	Retrieve their leave history.
 
-Brief overview of the technology used in the web app
+
+# Brief overview of the technology used in the web app
 Front end:
 *	HTML: used for creating and saving the web document.
 *	CSS: used for creating attractive layout for the web document.
@@ -48,12 +51,15 @@ Any of the following:
 *	XAMPP Server
 
 Flow chart
+
 ![image](https://github.com/SaraFedlu/Employee_leave_management_system-for-BAMI/assets/105264543/8ee3407a-0b0f-4a6f-a059-aa56deef1294)
 
 Site map
+
 ![image](https://github.com/SaraFedlu/Employee_leave_management_system-for-BAMI/assets/105264543/1879294e-8e8f-41a6-bc1e-b11535d6d31b)
 
 Use-case diagram
+
 ![image](https://github.com/SaraFedlu/Employee_leave_management_system-for-BAMI/assets/105264543/d43a5ee6-5568-4273-a1cf-6b0b85c85661)
 
 # Working principle
